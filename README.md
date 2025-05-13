@@ -2,13 +2,17 @@
 
 Welcome to the Data analytics project!  
 
-## 🚀 Project Overview
+## 🚀 Business Challenge
 
-This project was built using Python, AI-dashboards
+I supported the Beats by Dre team to answer these 2 questions:
 
-Key business insights answered:
-- How leading brands decode consumer conversations to create products that resonate
+1. What are the key factors driving the increasing consumer interest in high-fidality wireless speakers?
+2. How do evolving preferences, lifestyle changes, and audio consumption habits influence this market expansion?
 ---
+
+## 🧑‍💻 Solved using
+1. Gathered consumer insights
+2. Built market intelligience
 
 ## 🗂️ Project Structure
 
